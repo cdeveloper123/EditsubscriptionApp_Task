@@ -7,3 +7,4 @@ export { CategoryModal } from './CategoryModal';
 export { DatePickerModal } from './DatePickerModal';
 export { FrequencyModal } from './FrequencyModal';
 export { ReminderModal } from './ReminderModal';
+export { FormRow } from './FormRow';
